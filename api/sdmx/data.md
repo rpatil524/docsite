@@ -5,6 +5,9 @@ nav_order: 3
 parent: SDMX 3.0
 grand_parent: API - Query data programmatically
 published: true
+include_scripts:
+  - /assets/js/syntax_highlighting.js
+  - /assets/js/api-doc-tabs.js
 ---
 
 {: .no_toc}
@@ -385,5 +388,3 @@ dataflow,DC:DF_OBS(1.0.0),I,Count_Person,country/BRA,NotApplicable,WorldBankSubn
 ```
 {: .example-box-content .scroll}
 
-<script src="/assets/js/syntax_highlighting.js"></script>
-<script src="/assets/js/api-doc-tabs.js"></script>
